@@ -6,6 +6,6 @@ Wow!  I'm published on GitHub. Submit my resume to Microsoft.
 Learning how the commit process works.
 
 Crazy new idea is going here.
-LOOK OUT WORLD.
+LOOK OUT WORLD.  HERE I COME.
 
 
