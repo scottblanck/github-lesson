@@ -8,4 +8,7 @@ Learning how the commit process works.
 Crazy new idea is going here.
 LOOK OUT WORLD.  HERE I COME.  V3
 
+New changes from local laptop.
+
+
 
